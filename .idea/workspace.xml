@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a0de90e-d2b5-4c2a-a9eb-c55a03af7693" name="Default Changelist" comment="" />
+    <list default="true" id="0a0de90e-d2b5-4c2a-a9eb-c55a03af7693" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lesson8/com/Lesson8/Avg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson8/com/Lesson8/Avg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lesson8/com/Lesson8/AvgApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson8/com/Lesson8/AvgApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Lesson8/AvgApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Lesson8/AvgApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +22,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Zr5aXrbgwChzZTWxSj0g1Oek2w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,8 +39,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.AvgApp">
+  <component name="RunManager" selected="Application.CalcApp">
     <configuration name="AverageApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Lesson8.AverageApp" />
       <module name="Lesson8" />
@@ -56,6 +68,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalcApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lesson8.CalcApp" />
+      <module name="Lesson8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Lesson8.MultiDimensionalArray" />
       <module name="Lesson8" />
@@ -69,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Lesson8.OneDimensionalArray" />
+    <configuration name="PersonAppDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lesson8.PersonAppDemo" />
       <module name="Lesson8" />
       <extension name="coverage">
         <pattern>
@@ -84,10 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalcApp" />
         <item itemvalue="Application.AvgApp" />
+        <item itemvalue="Application.PersonAppDemo" />
         <item itemvalue="Application.AverageApp" />
         <item itemvalue="Application.MultiDimensionalArray" />
-        <item itemvalue="Application.OneDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -105,21 +131,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="101" key="GridCell.Tab.0.bottom" timestamp="1585684797710">
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1585763685998">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="101" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585684797710" />
-    <state width="1323" height="101" key="GridCell.Tab.0.center" timestamp="1585684797710">
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585763685998" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1585757415547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="101" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585684797710" />
-    <state width="1323" height="101" key="GridCell.Tab.0.left" timestamp="1585684797710">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585757415547" />
+    <state width="1323" height="188" key="GridCell.Tab.0.bottom" timestamp="1585857312833">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="101" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585684797710" />
-    <state width="1323" height="101" key="GridCell.Tab.0.right" timestamp="1585684797710">
+    <state width="1323" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585857312833" />
+    <state width="1323" height="188" key="GridCell.Tab.0.center" timestamp="1585857312817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="101" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585684797710" />
+    <state width="1323" height="188" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585857312817" />
+    <state width="1323" height="188" key="GridCell.Tab.0.left" timestamp="1585857312817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="188" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585857312817" />
+    <state width="1323" height="188" key="GridCell.Tab.0.right" timestamp="1585857312833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585857312817" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585757410352">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585757410352" />
   </component>
 </project>

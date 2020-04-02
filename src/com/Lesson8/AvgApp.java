@@ -25,17 +25,22 @@ public class AvgApp {
         //processing
         AvgMax avgMax = new AvgMax();
         Avg avg = new Avg();
+        AvgMin min = new AvgMin();
         //use a setter to store the numbers provided by the user
         avg.setNumbers(numbers);
         avgMax.setNumbers(numbers);
+        min.setNumbers(numbers);
         avg.calculateAverage();
         avgMax.computeMax();
+        min.computeMin();
         //output
         double a = avg.getAverage();
         int b = avgMax.getMax();
+        int c = min.getMin();
 
         System.out.println("Average is: " + a);
         System.out.println("Max is: " + b);
+        System.out.println("Min is: " + c);
 
     }//end main
 }//end class
